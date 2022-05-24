@@ -1,0 +1,49 @@
+body {
+    background-color: #161927;
+    color: #D8DBE9;
+    font-size: 100%;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.entry {
+    background-color: #2C324E;
+    border-radius: 1em;
+    padding: 1rem;
+
+}
+.date, .title {
+    font-size: 2em;
+    font-weight: 700;
+    border-radius: 1rem;
+    padding: .6em;
+
+}
+
+.date{
+    background-color: #98CE00;
+    text-align:center;
+
+}
+.title {
+
+    background-color: #DD63E3;
+}
+
+.entry p{
+    font-size: 1.4em;
+    font-weight: 400;
+    padding: 0 5rem;
+    line-height: 2.2rem;
+    
+}
+
+.code {
+    color:aqua;
+    text-transform:lowercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    text-decoration: aqua wavy underline .1rem;
+    font-weight: 700;
+}
